@@ -14,4 +14,5 @@ Go tarfile https://drive.google.com/file/d/16zu2zh9UZxfjB1ax2kHRirHQRc9I76pG/vie
    ```
    ~/go1.21.3/bin/go --version
    ```
+5. Next, you just have to adjust/configure the Go environment according to your wishes.
    
