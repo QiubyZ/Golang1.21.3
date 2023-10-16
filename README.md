@@ -15,4 +15,7 @@ Go tarfile https://drive.google.com/file/d/16zu2zh9UZxfjB1ax2kHRirHQRc9I76pG/vie
    ~/go1.21.3/bin/go --version
    ```
 5. Next, you just have to adjust/configure the Go environment according to your wishes.
-   
+
+## Result Terminal Emulator JackPal
+The results of the experiment, this can run in the Terminal Emulator
+![Terminal Emulator JackPal](./Screenshot_2023-10-16-23-20-39-408_jackpal.androidterm.jpg)
